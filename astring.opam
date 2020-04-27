@@ -10,6 +10,7 @@ license: "ISC"
 depends: [
   "dune"
   "ocaml" {>= "4.01.0"}
+  "stdlib-shims"
   "base-bytes"
 ]
 synopsis: "Alternative String module for OCaml"

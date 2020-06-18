@@ -9,7 +9,7 @@ tags: [ "string" "org:erratique" ]
 license: "ISC"
 depends: [
   "dune"
-  "ocaml" {>= "4.01.0"}
+  "ocaml" {>= "4.05.0"}
   "base-bytes"
 ]
 synopsis: "Alternative String module for OCaml"
